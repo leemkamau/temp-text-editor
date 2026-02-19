@@ -1,7 +1,8 @@
 # temp-text-editor
 A lightweight text editor inspired by vi coded in C
 
-Here’s your **README.md** structure formatted nicely for GitHub, using Markdown for headings, tables, and code blocks:
+
+  OBJECTIVES:
 
 Develop a fully functional terminal-based text editor in ANSI C.
 Implement raw mode terminal handling without external libraries.
