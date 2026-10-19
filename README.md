@@ -1,5 +1,5 @@
 # temp-text-editor
-A lightweight text editor inspired by vi coded in C
+A lightweight text editor coded in C
 
 
   OBJECTIVES:
