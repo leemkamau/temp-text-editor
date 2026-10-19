@@ -21,7 +21,7 @@ It works inside the Linux terminal and provides essential editing capabilities w
 
 ---
 
-## 📌 How to Start temp
+## How to Start temp
 
 To open a file:
 
@@ -40,7 +40,7 @@ You can then save your work using `Ctrl-S` and choose a file name.
 
 ---
 
-## 🖥️ Basic Navigation
+##  Basic Navigation
 
 | Key        | Action                              |
 | ---------- | ----------------------------------- |
@@ -54,7 +54,7 @@ You can then save your work using `Ctrl-S` and choose a file name.
 
 ---
 
-## ✏️ Editing Commands
+## Editing Commands
 
 | Key                | Action                                       |
 | ------------------ | -------------------------------------------- |
@@ -68,7 +68,7 @@ You can then save your work using `Ctrl-S` and choose a file name.
 
 ---
 
-## 💾 Saving and Exiting
+## Saving and Exiting
 
 | Key    | Action          |
 | ------ | --------------- |
@@ -85,7 +85,7 @@ This ensures you don’t lose data.
 
 ---
 
-## 🔍 Search Functionality
+## Search Functionality
 
 Start search:
 
@@ -102,7 +102,7 @@ Ctrl-F
 
 ---
 
-## 🎨 Syntax Highlighting
+##  Syntax Highlighting
 
 `temp` highlights:
 
@@ -118,7 +118,7 @@ Ctrl-F
 
 ---
 
-## 🔧 Status Bar
+##  Status Bar
 
 At the bottom of the screen, `temp` displays:
 
@@ -135,7 +135,7 @@ temp — filename.txt (modified) | Line 10, Col 5
 
 ---
 
-## 💀 Emergency Exit (Raw Mode Fail-Safe)
+##  Emergency Exit (Raw Mode Fail-Safe)
 
 If the terminal gets stuck (rare):
 
@@ -147,7 +147,7 @@ reset
 
 ---
 
-## 🏁 Compiling temp
+## Compiling temp
 
 If you have a Makefile:
 
@@ -169,7 +169,7 @@ Run it:
 
 ---
 
-## ⭐ Summary (Quick Reference)
+## Summary (Quick Reference)
 
 | Action              | Shortcut   |
 | ------------------- | ---------- |
